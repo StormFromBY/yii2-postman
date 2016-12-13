@@ -34,7 +34,7 @@
   },
   "autoload": {
     "psr-4": {
-      "stormfromby\\yii\\postman\\": ""
+      "rmrevin\\yii\\postman\\": ""
     }
   }
 }
